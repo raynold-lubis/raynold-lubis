@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, I'm Raynold Lubis!
 
+🔭 I'm currently a graduate in computer science <br>
+🌱 I'm currently learning web development <br>
+🤔 I’m looking for help with learning full-stack development <br>
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/raynold-lubis/) 
+
+[![Raynold's GitHub stats](https://github-readme-stats.vercel.app/api?username=raynold-lubis&show_icons=true&theme=radical)](https://github.com/raynold-lubis/github-readme-stats)
 <!--
 **raynold-lubis/raynold-lubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
